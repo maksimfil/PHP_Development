@@ -1,0 +1,17 @@
+{
+    "name": "maks/lab05",
+    "autoload": {
+        "psr-4": {
+            "Maks\\Lab05\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maksim.fil",
+            "email": "filmaksim02@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.0"
+    }
+}
